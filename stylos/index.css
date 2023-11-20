@@ -80,7 +80,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     ) 
-    ,url("/imagenes/pexels-photo-1106468.jpeg");
+    ,url("../imagenes/pexels-photo-1106468.jpeg");
     background-repeat: no-repeat;
     background-size:cover ;
     background-position: center,center;
@@ -134,27 +134,27 @@ header a:hover{
     background-image:linear-gradient(  0deg,
     rgba(0,0,0,0.5),
     rgba(0,0,0,0.5))
-    ,url("/imagenes/children-306607__340.jpg");
+    ,url("../imagenes/children-306607__340.jpg");
 
 }
 .carta:nth-child(2){background-image:linear-gradient(  0deg,
     rgba(0,0,0,0.5),
     rgba(0,0,0,0.5))
-    ,url("/imagenes/versionPRO.jpg");
+    ,url("../imagenes/versionPRO.jpg");
 
 
 }
 .carta:nth-child(3){background-image:linear-gradient(  0deg,
     rgba(0,0,0,0.5),
     rgba(0,0,0,0.5))
-    ,url("/imagenes/books-1617327__340.jpg");}
+    ,url("../imagenes/books-1617327__340.jpg");}
 
     .carta:nth-child(4){background-image:linear-gradient(  0deg,
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5))
         ,url("imagenes/niños.jpg");}
 
-#caracteristicas .container{background-image: url("imagenes/istockphoto-594484448-612x612.jpg");
+#caracteristicas .container{background-image: url("../imagenes/istockphoto-594484448-612x612.jpg");
         text-align: center;
         padding: 250px 12px;
     }
@@ -195,7 +195,7 @@ footer .container{
                     rgba(0,0,0,0.5),
                     rgba(0,0,0,0.5)
                 ) 
-                ,url("imagenes/LORA\ tu\ biblioteca\ a\ la\ mano.jpg");
+                ,url("../imagenes/LORA\ tu\ biblioteca\ a\ la\ mano.jpg");
                 background-repeat: no-repeat;
                 background-size:cover ;
                 background-position: center,center;
@@ -242,7 +242,7 @@ footer .container{
             }
 #caracteristicas{
     
-            background-image: url("imagenes/istockphoto-594484448-612x612.jpg");
+            background-image: url("../imagenes/istockphoto-594484448-612x612.jpg");
             }
             #caracteristicas ul{
                 font-size: 2em;
@@ -270,7 +270,7 @@ footer .container{
                 rgba(0,0,0,0.5),
                 rgba(0,0,0,0.5)
             ) 
-            ,url("/imagenes/LORA\ tu\ biblioteca\ a\ la\ mano.jpg");
+            ,url("../imagenes/LORA\ tu\ biblioteca\ a\ la\ mano.jpg");
             background-repeat: no-repeat;
             background-size:cover ;
             background-position: center,center;
@@ -292,7 +292,7 @@ footer .container{
         }
         
 
-.texto{background-image: url("imagenes/Diseño\ sin\ título.png"); 
+.texto{background-image: url("../imagenes/Diseño\ sin\ título.png"); 
     
         padding: left 45px;
         background-repeat: no-repeat;
@@ -317,7 +317,7 @@ footer .container{
         }
 #caracteristicas{
 
-        background-image: url("imagenes/istockphoto-594484448-612x612.jpg");
+        background-image: url("../imagenes/istockphoto-594484448-612x612.jpg");
         }
         #caracteristicas ul{
             font-size: 2em;
